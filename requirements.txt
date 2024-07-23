@@ -34,7 +34,6 @@ huggingface-hub==0.23.4
 idna 
 importlib_metadata==8.0.0
 inflection==0.5.1
-intel-openmp==2021.4.0
 Jinja2
 kiwisolver==1.4.5
 MarkupSafe 
