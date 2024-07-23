@@ -1,15 +1,24 @@
 asgiref==3.8.1
+async-timeout==4.0.3
 bleach==6.1.0
 Brotli @ file:///C:/b/abs_3d36mno480/croot/brotli-split_1714483178642/work
 certifi @ file:///C:/b/abs_55jxithrm3/croot/certifi_1717618077850/work/certifi
+cffi==1.16.0
 charset-normalizer==3.3.2
 colorama==0.4.6
 contourpy==1.2.1
+crispy-bootstrap5==2024.2
+cryptography==42.0.7
 cycler==0.12.1
 diffusers==0.29.2
+dj-database-url==2.2.0
 Django==5.0.6
-django-cors-headers==4.3.1
+django-allauth==0.63.3
+django-cors-headers==4.4.0
+django-crispy-forms==2.1
 django-environ==0.11.2
+django-filter==24.2
+django-phonenumber-field==7.3.0
 django-summernote==0.8.20.0
 django-widget-tweaks==1.5.0
 djangorestframework==3.15.1
@@ -20,6 +29,7 @@ filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
 fonttools==4.53.1
 fsspec==2024.6.1
 gmpy2 @ file:///C:/ci/gmpy2_1645438895476/work
+gunicorn==22.0.0
 huggingface-hub==0.23.4
 idna @ file:///C:/b/abs_aad84bnnw5/croot/idna_1714398896795/work
 importlib_metadata==8.0.0
@@ -36,10 +46,12 @@ mkl-service==2.4.0
 mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
 networkx @ file:///C:/b/abs_36fmumtynt/croot/networkx_1720002497414/work
 numpy @ file:///C:/b/abs_54abayvc9j/croot/numpy_and_numpy_base_1682520598361/work
-packaging==24.0
-pillow==10.4.0
+packaging==24.1
+phonenumbers==8.13.38
+pillow==10.3.0
 psycopg2==2.9.9
 psycopg2-binary==2.9.9
+pycparser==2.22
 PyJWT==2.8.0
 pyparsing==3.1.2
 PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
@@ -48,8 +60,9 @@ python-decouple==3.8
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+redis==5.0.6
 regex==2024.5.15
-requests @ file:///C:/b/abs_9c5n24p1y7/croot/requests_1716902867639/work
+requests==2.32.3
 safetensors==0.4.3
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sqlparse==0.5.0
@@ -60,10 +73,11 @@ torch==2.3.1
 torchvision==0.18.1
 tqdm==4.66.4
 transformers==4.42.3
-typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
+typing_extensions==4.12.1
 tzdata==2024.1
 uritemplate==4.1.1
-urllib3 @ file:///C:/b/abs_a7hvzm4y95/croot/urllib3_1718912661242/work
+urllib3==2.2.1
 webencodings==0.5.1
+whitenoise==6.7.0
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 zipp==3.19.2
