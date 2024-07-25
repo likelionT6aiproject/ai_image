@@ -1,12 +1,12 @@
 --extra-index-url https://download.pytorch.org/whl/cu121
-torch==2.3.1+cu121
-torchvision==0.18.1+cu121
-torchaudio==2.3.1+cu121
+torch
+torchvision
+torchaudio
 asgiref==3.8.1
 certifi==2024.7.4
 charset-normalizer==3.3.2
 crispy-bootstrap5==2024.2
-Django==5.0.6
+Django
 django-allauth==0.63.3
 django-cors-headers==4.4.0
 django-crispy-forms==2.1
@@ -23,7 +23,7 @@ gunicorn==22.0.0
 idna==3.7
 importlib_metadata==8.0.0
 Pillow==10.3.0
-psycopg2==2.9.9
+psycopg2-binary
 python-dateutil==2.9.0.post0
 python-decouple==3.8
 python-dotenv==1.0.1
